@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="73.443" height="71.997" viewBox="0 0 73.443 71.997">
+  <g id="Protein" transform="translate(36.721 35.998)">
+    <g id="Group_5239" data-name="Group 5239" transform="translate(-34.723 -34)">
+      <path id="Path_15409" data-name="Path 15409" d="M54.406,34.152c-6.005,0-9.852,3.049-12.97,7.684l5.194,3.527c-4.036-2.915-7.342-5.416-11.928-5.416-8.39,0-16.465,6.261-16.465,6.261S27.4,39.7,27.4,33.428c0-6.049-2.894-11.332-2.894-17.6,0,0,13.744,4.582,15.432,1.446,1.206-2.239,3.575-7.913,1.448-10.85C39.355,3.618,32.694.875,26.436.875,15.825.875.875,36.08.875,51.512S28.363,68.874,52.96,68.874A17.64,17.64,0,0,0,70.32,51.512C70.32,41.925,62.725,34.152,54.406,34.152Z" transform="translate(-0.875 -0.875)" fill="none" stroke="#29353a" stroke-miterlimit="10" stroke-width="3.997"/>
+      <path id="Path_15410" data-name="Path 15410" d="M14.54,6.226A1.574,1.574,0,0,0,15.2,7.519c1.962,1.606,8.573,2.812,8.641,2.826l-.007.027c-.066-.011-6.686-1.217-8.655-2.83a1.6,1.6,0,0,1-.674-1.316c.046-1.279,1.743-2.494,1.761-2.506" transform="translate(16.635 2.779)" fill="none" stroke="#29353a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.997"/>
+      <g id="Group_5238" data-name="Group 5238" transform="translate(46.842 2.638)">
+        <rect id="Rectangle_2375" data-name="Rectangle 2375" width="7.654" height="0.029" transform="translate(0 0)" fill="none" stroke="#29353a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.997"/>
+        <rect id="Rectangle_2376" data-name="Rectangle 2376" width="11.773" height="0.029" transform="translate(3.115 7.233)" fill="none" stroke="#29353a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.997"/>
+        <rect id="Rectangle_2377" data-name="Rectangle 2377" width="9.645" height="0.029" transform="translate(0.902 14.467)" fill="none" stroke="#29353a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.997"/>
+      </g>
+    </g>
+  </g>
+</svg>
